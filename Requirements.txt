@@ -7,3 +7,8 @@ colors
 theme
 Wallpaper
 typing keyboard
+
+
+Dark mode
+video calls
+voice calls
