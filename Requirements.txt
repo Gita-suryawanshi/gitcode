@@ -12,3 +12,7 @@ typing keyboard
 Dark mode
 video calls
 voice calls
+
+
+Profile picture
+Settings
