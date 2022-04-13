@@ -1,0 +1,9 @@
+This is one type of Chat application.
+
+Requirements:
+Emoji
+Type option 
+colors 
+theme
+Wallpaper
+typing keyboard
